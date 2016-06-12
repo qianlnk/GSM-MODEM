@@ -1,6 +1,6 @@
 
 /*****************************************************************************
- *	filename: usbModem.c
+ *	filename: msgCat.c
  *	interface1:
  *	    1. scan device
 	    int getDeviceName(char *pcDev)
